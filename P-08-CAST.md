@@ -31,3 +31,4 @@ CAST is the signed broadcast protocol. A node announces a signed record to all c
 
 *Stub — full specification in Phase 3*
 *Dencken Network — P-08 CAST — dencken.net — August 2026*
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

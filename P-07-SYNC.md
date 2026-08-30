@@ -31,3 +31,4 @@ SYNC reconciles ledger state between two nodes after a period of disconnection. 
 
 *Stub — full specification in Phase 3*
 *Dencken Network — P-07 SYNC — dencken.net — August 2026*
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

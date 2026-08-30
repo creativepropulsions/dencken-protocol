@@ -118,6 +118,4 @@ export function verifySignature(payload, signatureB64, publicKeyPem) {
 \---
 
 *Dencken Network — P-01 SIGN — dencken.net — August 2026*
-
-
-
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

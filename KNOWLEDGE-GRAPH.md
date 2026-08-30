@@ -63,3 +63,4 @@ Tags are never changed after creation. Reclassification requires a new record.
 ---
 
 *Dencken Network — Knowledge Architecture — dencken.net — August 2026*
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

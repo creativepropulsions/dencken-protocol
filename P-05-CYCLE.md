@@ -188,3 +188,4 @@ console.log({
 ---
 
 *Dencken Network — P-05 CYCLE — dencken.net — August 2026*
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

@@ -29,3 +29,4 @@ VOTE is not active in Company Node 0 (single board, no council). The protocol is
 
 *Stub — full specification in Phase 3*
 *Dencken Network — P-11 VOTE — dencken.net — August 2026*
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

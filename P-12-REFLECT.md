@@ -36,3 +36,4 @@ REFLECT is the evolution system protocol. It sequences the six reflection mirror
 
 *Stub — full specification in Phase 2*
 *Dencken Network — P-12-REFLECT — dencken.net — August 2026*
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

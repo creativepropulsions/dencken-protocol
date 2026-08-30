@@ -44,3 +44,4 @@ Safe to commit. No secrets.
 ---
 
 *Dencken Network — Node Types — dencken.net — August 2026*
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

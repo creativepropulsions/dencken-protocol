@@ -158,3 +158,4 @@ src/layers/
 ---
 
 *Dencken Network — P-04 PULSE — dencken.net — August 2026*
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

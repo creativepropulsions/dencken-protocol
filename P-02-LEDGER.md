@@ -132,6 +132,4 @@ Any PR that adds delete or truncate functionality to `ledger.js` will be rejecte
 \---
 
 *Dencken Network — P-02 LEDGER — dencken.net — August 2026*
-
-
-
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

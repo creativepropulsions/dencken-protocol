@@ -30,3 +30,4 @@ FETCH is the content-hash lookup protocol. A node requests a specific record fro
 
 *Stub — full specification in Phase 3*
 *Dencken Network — P-09 FETCH — dencken.net — August 2026*
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

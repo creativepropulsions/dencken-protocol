@@ -119,6 +119,4 @@ Permission error — not "not found" — for audience mismatches.
 \---
 
 *Dencken Network — P-03 KNOWLEDGE — dencken.net — August 2026*
-
-
-
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

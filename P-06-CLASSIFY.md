@@ -178,3 +178,4 @@ These shortcuts are pre-defined in `src/core/knowledge.js` as named query functi
 ---
 
 *Dencken Network — P-06 CLASSIFY — dencken.net — August 2026*
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

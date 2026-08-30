@@ -4,6 +4,8 @@
 
 > "Built by what it builds."
 
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.
+
 ---
 
 ## Protocol Index
@@ -1419,3 +1421,5 @@ Democratic governance is not a starting condition. It is an achievement earned t
 ---
 
 *Dencken Network — Network Structure — dencken.net — August 2026*
+
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.

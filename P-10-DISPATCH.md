@@ -36,3 +36,4 @@ Five sequential steps — all must pass or command does not execute:
 
 *Stub — full specification in Phase 2*
 *Dencken Network — P-10 DISPATCH — dencken.net — August 2026*
+Copyright (c) 2026 Dencken - Oddsized - CP Müller. All Rights Reserved.
